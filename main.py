@@ -15,7 +15,7 @@ def home():
         <title>テトリス</title>
         <style>
             body {{ text-align: center; font-family: Arial, sans-serif; }}
-            canvas {{ background: black; display: block; margin: auto; }}
+            canvas {{ background: red; display: block; margin: auto; }}
         </style>
     </head>
     <body>
