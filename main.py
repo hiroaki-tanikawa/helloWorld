@@ -13,7 +13,7 @@ def home():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>テトリス</title>
+        <title>テトリスAAA</title>
         <style>
             body { text-align: center; font-family: Arial, sans-serif; }
             canvas { background: black; display: block; margin: auto; }
