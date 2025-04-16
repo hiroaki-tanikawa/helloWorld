@@ -50,4 +50,5 @@ RUN ls -l /app
 
 # 添加镜像默认命令
 
+
 CMD ["python", "./main.py"]
