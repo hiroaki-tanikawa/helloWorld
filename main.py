@@ -13,7 +13,7 @@ def home():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>テトリス8080</title>
+        <title>テトリス</title>
         <style>
             body { text-align: center; font-family: Arial, sans-serif; }
             canvas { background: black; display: block; margin: auto; }
@@ -21,7 +21,7 @@ def home():
         </style>
     </head>
     <body>
-        <h1>テトリス CI/CT</h1>
+        <h1>テトリス 8080</h1>
         <p id="score">スコア: 0</p>
         <button onclick="recordScore()">記録</button>
         <canvas id="gameCanvas" width="300" height="600"></canvas>
