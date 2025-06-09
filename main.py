@@ -13,7 +13,7 @@ def home():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>テトリス</title>
+        <title>テトリス8080</title>
         <style>
             body { text-align: center; font-family: Arial, sans-serif; }
             canvas { background: black; display: block; margin: auto; }
@@ -160,4 +160,4 @@ def record():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8081, debug=True)
+    app.run(host="0.0.0.0", port=8080, debug=True)
