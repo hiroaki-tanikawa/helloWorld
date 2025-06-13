@@ -21,7 +21,7 @@ def home():
         </style>
     </head>
     <body>
-        <h1>テトリスABC</h1>
+        <h1>ABCDABCDABCDABCDABCDABCDABCDテトリスABCDABCDABCDABCDABCDABCDABCD</h1>
         <p id="score">スコア: 0</p>
         <button onclick="recordScore()">記録</button>
         <canvas id="gameCanvas" width="300" height="600"></canvas>
